@@ -1,5 +1,5 @@
 # HelloGitHub Vol.107
-> Passion is the best teacher. **HelloGitHub** inspires your interest in programming!
+> Passion is the best teacher. **HelloGitHub** inspires your interest in open-source!
 <p align="center">
     <img src='https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/cover.jpg' style="max-width:100%;"></img>
 </p>
@@ -14,44 +14,44 @@ Click the **「Table of Contents」** icon at the top-right corner to open the n
 > **The content of this issue is as follows**｜Updated on the **28th** of each month
 
 ### C
-1、[earlyoom](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/rfjakob/earlyoom)：防止 OOM 的 Linux 守护进程。这是一款专为 Linux 设计的 OOM 守护进程，旨在弥补内核自带的 OOM Killer 仅在内存耗尽时才触发的不足。它能够提早干预（默认 10%），自动终止占用内存最多的进程，从而防止系统因内存耗尽而陷入卡死的状态。
+1、[earlyoom](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/rfjakob/earlyoom)：Linux Daemon to Prevent OOM. This is an OOM (Out of Memory) daemon specifically designed for Linux to compensate for the deficiency of the kernel's built-in OOM Killer, which only triggers when memory runs out. It intervenes sooner (by default 10%), automatically terminating the process that consumes the most memory, thus preventing the system from becoming frozen due to memory exhaustion.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/107/15850784.png' style="max-width:80%; max-height=80%;"></img></p>
 
-2、[sqlite-vec](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/asg017/sqlite-vec)：SQLite 的向量搜索扩展。这是一个体积小、零依赖的向量搜索 SQLite 扩展，为 SQLite 数据库添加了插入和查询浮点、整数和二进制向量的能力。它可以运行在任何支持 SQLite 的平台上，包括 Linux、macOS、Windows、浏览器（WASM）、树莓派等。
+2、[sqlite-vec](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/asg017/sqlite-vec)：SQLite Vector Search Extension. This is a lightweight, zero-dependency vector search SQLite extension that adds the ability to insert and query floating-point, integer, and binary vectors into SQLite databases. It can run on any platform that supports SQLite, including Linux, macOS, Windows, browsers (WASM), Raspberry Pi, and more.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/107/789538509.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### C#
-3、[Flyby11](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/builtbybel/Flyby11)：Windows 11 升级助手。这是一款开源的 Windows 11 升级辅助工具。它能够帮助用户绕过硬件限制，将 Windows 11 最新版本，安装到官方不支持的旧设备上。
+3、[Flyby11](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/builtbybel/Flyby11)：Windows 11 Upgrade Assistant. This is an open-source Windows 11 upgrade assistant tool. It can help users bypass hardware restrictions to install the latest version of Windows 11 on unsupported old devices.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/107/875403491.png' style="max-width:80%; max-height=80%;"></img></p>
 
-4、[ImageGlass](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/d2phap/ImageGlass)：干净的 Windows 图像查看器。这是一款功能丰富的图像查看工具，专注于为 Windows 用户提供流畅的图像浏览体验。它拥有简洁直观的界面，支持 80 多种图像格式和多语言，以及无损压缩、调整大小等实用的图像编辑功能。
+4、[ImageGlass](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/d2phap/ImageGlass)：A Clean Windows Image Viewer. This is a feature-rich image viewing tool focused on providing a smooth image browsing experience for Windows users. It boasts a clean and intuitive interface, supports over 80 image formats and multiple languages, as well as practical image editing features such as lossless compression and resizing.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/107/7377936.png' style="max-width:80%; max-height=80%;"></img></p>
 
-5、[MahApps.Metro](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/MahApps/MahApps.Metro)：优雅的 WPF UI 框架。该项目是专为 WPF 应用程序设计的 UI 框架，旨在帮助开发者快速构建具有现代感、优雅的桌面用户界面。它内置丰富的控件、图标、主题，以及便捷的 Visual Studio 模版。
+5、[MahApps.Metro](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/MahApps/MahApps.Metro)：Elegant WPF UI Framework. This project is a UI framework specifically designed for WPF applications, aiming to assist developers in swiftly constructing modern and elegant desktop user interfaces. It includes a rich array of controls, icons, themes, and convenient Visual Studio templates.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/107/2584777.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 ### C++
-6、[champ](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/chvmp/champ)：开源的四足机器人控制开发框架。这是一个开源的四足机器人开发框架，可用于构建四足机器人和开发控制算法。它提供轻量级的头文件库和丰富的 ROS 工具包，支持完全自主导航、Gazebo 仿真环境以及多种硬件平台，为开发者提供了完整的四足机器人控制框架和开发工具。
+6、[champ](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/chvmp/champ)：Open-Source Quadruped Robot Control Development Framework. This is an open-source development framework for quadruped robots, suitable for building quadruped robots and developing control algorithms. It provides lightweight header file libraries and a rich set of ROS tool packages, supporting full autonomous navigation, Gazebo simulation environments, and a variety of hardware platforms, offering developers a complete quadruped robot control framework and development tools.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/107/186157988.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-7、[cling](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/root-project/cling)：交互式的 C++ 开发环境。这是一个基于 LLVM 和 Clang 构建的交互式 C++ 解释器。它提供了直观的交互式命令行界面，支持即时编写、执行和调试 C++ 代码，并可以与 Jupyter 集成。Shared by [@chenxu](https://hellogithub.com/en/user/2szDRMLtYI9bVcT)
+7、[cling](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/root-project/cling)：Interactive C++ Development Environment. This is an interactive C++ interpreter built based on LLVM and Clang. It provides an intuitive interactive command-line interface, supporting the immediate writing, execution, and debugging of C++ code, and can be integrated with Jupyter.Shared by [@chenxu](https://hellogithub.com/en/user/2szDRMLtYI9bVcT)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/107/49210203.png' style="max-width:80%; max-height=80%;"></img></p>
 
-8、[MusicPlayer2](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/zhongyang219/MusicPlayer2)：多功能的 Windows 音乐播放器。该项目是一款由 C++ 编写的简约、小巧、多功能的 Windows 本地音乐播放器，支持常见音频格式，并提供歌词显示、卡拉 OK 模式、歌词编辑、专辑封面展示、频谱分析和音效调节等功能。Shared by [@wyf9](https://hellogithub.com/en/user/WoGJ1ZiVstBkyAb)
+8、[MusicPlayer2](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/zhongyang219/MusicPlayer2)：Versatile Windows Music Player. This project is a minimalist, compact, and versatile Windows local music player written in C++, supporting common audio formats, and providing features such as lyric display, karaoke mode, lyric editing, album cover display, spectrum analysis, and sound effect adjustments.Shared by [@wyf9](https://hellogithub.com/en/user/WoGJ1ZiVstBkyAb)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/107/99799314.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Go
-9、[codeforces-go](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/EndlessCheng/codeforces-go)：Go 语言的算法竞赛模版。该项目是由灵茶山艾府创建的一个算法竞赛模板。它以 Go 语言为基础，提供了全面且系统的算法模板集合，涵盖从基础数据结构到高级算法的多个领域。
+9、[codeforces-go](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/EndlessCheng/codeforces-go)：Algorithm Competition Template in Go Language. This project, created by Lingcha Mountain Aifu, is an algorithm competition template based on the Go programming language. It provides a comprehensive and systematic set of algorithm templates covering various fields from basic data structures to advanced algorithms.
 
-10、[goja](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/dop251/goja)：Go 语言实现的 JavaScript 引擎。该项目是用纯 Go 语言实现的高性能 JavaScript 引擎，让开发者能够在 Go 环境下轻松执行 JavaScript 代码。它支持运行 Babel 和 TypeScript 编译器等 ES5 编写的东西，并兼容大部分 ES6 功能。
+10、[goja](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/dop251/goja)：Go Language Implementation of a JavaScript Engine. This project is a high-performance JavaScript engine implemented entirely in Go, allowing developers to easily execute JavaScript code within the Go environment. It supports running compilers written in ES5 such as Babel and TypeScript, and is compatible with most ES6 features.
 ```go
 vm := goja.New()
 v, err := vm.RunString("2 + 2")
@@ -63,37 +63,37 @@ if num := v.Export().(int64); num != 4 {
 }
 ```
 
-11、[ipatool](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/majd/ipatool)：轻松下载 IPA 文件的工具。这是一款能够帮助用户在 iOS App Store 中搜索并下载 .ipa 文件的命令行工具，支持 Windows、Linux 和 macOS 平台。
+11、[ipatool](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/majd/ipatool)：A Tool for Easily Downloading IPA Files. This is a command-line tool that can help users search for and download .ipa files in the iOS App Store, supporting Windows, Linux, and macOS platforms.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/107/369755856.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-12、[pspy](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/DominicBreuker/pspy)：无需 Root 权限实时监控 Linux 进程的工具。这是一款无需 root 权限即可实时监控 Linux 系统中所有用户运行的命令、计划任务等进程活动。它通过遍历 /proc 收集进程信息和监听文件系统事件，能够实时捕捉新启动的进程和短命进程，适用于 CTF 竞赛、渗透测试和安全审计等场景。
+12、[pspy](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/DominicBreuker/pspy)：Tool for Real-time Monitoring of Linux Processes Without Root Permissions. This is a tool that can monitor all user commands, scheduled tasks, and other process activities on Linux systems in real-time without requiring root permissions. It collects process information by traversing /proc and listening for file system events, capable of real-time detection of newly started and short-lived processes, suitable for scenarios such as CTF competitions, penetration testing, and security auditing.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/107/120821432.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-13、[wego](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/schachmat/wego)：快速查看天气预报的命令行工具。这是一款用 Go 语言开发的命令行查看天气的工具，可以帮助用户快速获取未来几天的天气信息，包括温度、风速、风向、降水量等。
+13、[wego](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/schachmat/wego)：A Command-line Tool for Quick Weather Forecasts. This is a weather checking tool developed using Go language, which helps users quickly obtain weather information for the coming days, including temperature, wind speed, wind direction, precipitation, and more.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/107/26971815.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Java
-14、[logisim-evolution](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/logisim-evolution/logisim-evolution)：开源的数字电路设计与模拟软件。这是一款 Java 开发的数字逻辑电路设计与模拟工具，适用于教育和开发场景。它提供直观的界面，支持实时模拟电路行为、信号时序图、硬件集成、VHDL、常用组件和多语言。
+14、[logisim-evolution](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/logisim-evolution/logisim-evolution)：Open-source Digital Circuit Design and Simulation Software. This is a digital logic circuit design and simulation tool developed in Java, suitable for educational and development scenarios. It offers an intuitive interface, supports real-time simulation of circuit behavior, signal timing diagrams, hardware integration, VHDL, common components, and multi-language support.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/107/24217298.png' style="max-width:80%; max-height=80%;"></img></p>
 
-15、[synthea](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/synthetichealth/synthea)：模拟患者人群的开源工具。这是一款开源的合成患者数据和健康记录的模拟器，支持生成病历、症状、诊断、药物、疫苗接种记录等多种医疗信息数据，适用于临床研究、流行病学研究等场景。
+15、[synthea](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/synthetichealth/synthea)：Open Source Tool for Simulating Patient Populations. This is an open-source simulator for synthetic patient data and health records, capable of generating various medical information data including medical records, symptoms, diagnoses, medications, and vaccination records. It is suitable for clinical research, epidemiological studies, and other similar scenarios.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/107/61399845.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### JavaScript
-16、[canvas-confetti](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/catdad/canvas-confetti)：五彩纸屑动画效果的 JavaScript 库。这是一个轻量级、高性能的五彩纸屑动画库，让你轻松地在网页中添加炫酷的动态特效。它基于 HTML5 Canvas 技术实现动画渲染，支持粒子数量、发射角度、速度、重力、颜色等多种参数，以及自定义形状和文本动画，适用于节日庆祝、游戏奖励效果等场景。
+16、[canvas-confetti](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/catdad/canvas-confetti)：JavaScript Library for Confetti Animation Effects. This is a lightweight, high-performance confetti animation library that allows you to easily add cool dynamic effects to your web pages. It uses HTML5 Canvas technology for animation rendering, supports various parameters such as particle quantity, emission angle, speed, gravity, and color, as well as custom shape and text animations, making it suitable for scenarios like holiday celebrations and game reward effects.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/107/119001901.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-17、[color-thief](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/lokesh/color-thief)：从图片中提取调色板的 JavaScript 库。这是一个轻松获取图片主要颜色或颜色组合的 JavaScript 库，适用于需要动态提取图片颜色的场景。
+17、[color-thief](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/lokesh/color-thief)：JavaScript Library for Extracting Color Palettes from Images. This is a JavaScript library that easily obtains the main colors or color combinations of an image, suitable for scenarios where dynamic extraction of image colors is needed.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/107/2688455.png' style="max-width:80%; max-height=80%;"></img></p>
 
-18、[newsnow](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/ourongxing/newsnow)：全开源的实时资讯平台。这是一款高颜值的实时新闻与热榜网站，相比传统热榜产品更加注重实时新闻。它前后端完全开源、部署简单，可轻松托管到 Cloudflare Pages 或 Vercel 等平台。Shared by [@Ou](https://hellogithub.com/en/user/SMJiFwlsKCkWf89)
+18、[newsnow](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/ourongxing/newsnow)：Fully Open-Source Real-Time News Platform. This is a high-aesthetic real-time news and hotlist website that focuses more on real-time news compared to traditional hotlist products. It is completely open-source for both frontend and backend, easy to deploy, and can be easily hosted on platforms like Cloudflare Pages or Vercel.Shared by [@Ou](https://hellogithub.com/en/user/SMJiFwlsKCkWf89)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/107/861790708.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -106,33 +106,33 @@ if num := v.Export().(int64); num != 4 {
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/107/658364446.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Kotlin
-21、[Pluvia](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/oxters168/Pluvia)：Android 上的非官方 Steam 客户端。这是一款专为 Android 设计的轻量级、非官方 Steam 客户端，可以在移动设备上浏览、下载并运行无 DRM（数字版权管理）的 Steam 游戏，支持 Steam 云存档和好友列表等功能。
+21、[Pluvia](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/oxters168/Pluvia)：Unofficial Steam Client on Android. This is a lightweight, unofficial Steam client designed for Android. It allows users to browse, download, and run DRM-free Steam games on mobile devices, supporting features such as Steam Cloud Saves and friend lists.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/107/868277149.gif' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Python
-22、[input-remapper](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/sezanzeb/input-remapper)：让 Linux 用户轻松改变按键行为的工具。该项目是专为 Linux 系统设计的工具，能够轻松改变输入设备的行为。它支持多种输入设备，包括键盘、鼠标、游戏手柄和操作杆。
+22、[input-remapper](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/sezanzeb/input-remapper)：A Tool to Easily Change Key Behavior for Linux Users. This project is a tool specifically designed for the Linux operating system, capable of easily altering the behavior of input devices. It supports a variety of input devices including keyboards, mice, game controllers, and joysticks.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/107/307515577.png' style="max-width:80%; max-height=80%;"></img></p>
 
-23、[kitty](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/kovidgoyal/kitty)：GPU 加速的终端模拟器。这是一款基于 GPU 加速的跨平台终端模拟器，专为开发者提供流畅的命令行操作体验。它通过 OpenGL 渲染技术，显著提升渲染速度，相较传统终端更快，同时支持自定义字体、多窗口、多标签和高分辨率显示等功能。
+23、[kitty](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/kovidgoyal/kitty)：GPU-Accelerated Terminal Emulator. This is a cross-platform terminal emulator based on GPU acceleration, designed to provide developers with a smooth command-line operation experience. It significantly improves rendering speed using OpenGL rendering technology, faster than traditional terminals, and supports custom fonts, multi-window, multi-tab, and high-resolution display features.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/107/71056775.png' style="max-width:80%; max-height=80%;"></img></p>
 
-24、[manga-image-translator](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/zyddnys/manga-image-translator)：一键翻译图片内文字的工具。这是一个用于识别并翻译图片内文字的 Python 项目，支持日语、中文、英语和韩语等多种语言，适用于翻译漫画、插图中的文字内容。
+24、[manga-image-translator](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/zyddnys/manga-image-translator)：A Tool for One-Click Translation of Text in Images. This is a Python project designed to recognize and translate text within images, supporting multiple languages such as Japanese, Chinese, English, and Korean. It is suitable for translating the text content in comics and illustrations.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/107/339920287.png' style="max-width:80%; max-height=80%;"></img></p>
 
-25、[piku](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/piku/piku)：极简的 PaaS 工具。这是一款轻量级的 PaaS 工具，用户只需通过简单的 git push 命令即可将应用部署到服务器。它仅有 1500 行 Python 代码，能够在低配置设备（如 Raspberry Pi）上运行，支持 Python、Node.js 和 Java 等多种编程语言，以及多应用部署、免费 SSL 证书等功能。
+25、[piku](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/piku/piku)：Minimalist PaaS Tool. This is a lightweight Platform as a Service (PaaS) tool that allows users to deploy their applications to servers with just a simple git push command. It consists of only 1500 lines of Python code, runs on devices with low specifications such as Raspberry Pi, and supports multiple programming languages including Python, Node.js, and Java. Additionally, it offers multi-application deployment and free SSL certificate functionalities.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/107/54778964.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-26、[posting](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/darrenburns/posting)：炫酷的终端 API 调试工具。这是一款现代化的终端 HTTP 客户端，堪称 Postman 和 Insomnia 的命令行版。它为开发者提供了便捷的 TUI 使用体验，并优化了键盘操作流程，支持自动补全、语法高亮、Vim 键绑定和请求存储在本地文件（YAML）等功能。
+26、[posting](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/darrenburns/posting)：Cool Terminal API Debugger. This is a modern terminal HTTP client, which can be considered as the command-line version of Postman and Insomnia. It provides developers with a convenient TUI experience, optimizes keyboard operation processes, supports auto-completion, syntax highlighting, Vim key binding, and storing requests locally in YAML files.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/107/806285077.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Rust
-27、[neovide](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/neovide/neovide)：用 Rust 打造的 Neovim 客户端。这是一款为 Neovim 编辑器（Vim 的重构版本）设计的跨平台桌面客户端。它在保留 Nvim 核心功能的基础上，提供了现代化的图形界面，带来更友好的使用体验。
+27、[neovide](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/neovide/neovide)：Rust-crafted Neovim Client. This is a cross-platform desktop client designed for the Neovim editor (a refactored version of Vim). It retains the core functionalities of Nvim while providing a modern graphical interface for a more friendly user experience.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/107/226408450.png' style="max-width:80%; max-height=80%;"></img></p>
 
@@ -140,67 +140,67 @@ if num := v.Export().(int64); num != 4 {
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/107/906665483.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-29、[simple-http-server](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/TheWaWaR/simple-http-server)：Rust 的轻量级 HTTP(s) 服务器。该项目是用 Rust 编写的轻量级 HTTP(s) 服务器，可快速提供简单易用的静态文件服务。它拥有开箱即用、跨平台的特点，支持 HTTPS、认证、CORS 配置、文件上传等功能。
+29、[simple-http-server](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/TheWaWaR/simple-http-server)：Rust Lightweight HTTP(s) Server. This project is a lightweight HTTP(s) server written in Rust, which provides simple and easy static file service quickly. It has the characteristics of being out-of-the-box and cross-platform, supporting HTTPS, authentication, CORS configuration, file upload, and other features.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/107/92592878.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Swift
-30、[Cork](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/buresdv/Cork)：Homebrew 图形界面管理工具。该项是专为 Homebrew 设计的图形用户界面（GUI），旨在通过图形界面简化 Homebrew 的使用，让用户更轻松地安装、更新和卸载软件包。Shared by [@Micro·J](https://hellogithub.com/en/user/L2Xx0OfvPzpYt4u)
+30、[Cork](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/buresdv/Cork)：Homebrew GUI Management Tool. This project is a graphical user interface (GUI) designed specifically for Homebrew, aiming to simplify the use of Homebrew through a graphical interface, allowing users to more easily install, update, and uninstall software packages.Shared by [@Micro·J](https://hellogithub.com/en/user/L2Xx0OfvPzpYt4u)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/107/510067764.png' style="max-width:80%; max-height=80%;"></img></p>
 
-31、[periphery](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/peripheryapp/periphery)：开源的 Swift 代码“清洁工”。该项目是用于检测和清理 Swift 项目中未使用代码的工具，支持与 Xcode、SwiftPM 和 Bazel 等构建系统集成，并提供灵活的配置选项，帮助开发者高效清理冗余代码，优化项目质量。
+31、[periphery](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/peripheryapp/periphery)：Open Source Swift Code 'Cleaner'. This project is a tool for detecting and cleaning unused code in Swift projects. It supports integration with build systems such as Xcode, SwiftPM, and Bazel, and provides flexible configuration options to help developers efficiently clean up redundant code and optimize project quality.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/107/169972846.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### AI
-32、[ai-by-hand-excel](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/ImagineAILab/ai-by-hand-excel)：用 Excel 手搓各种 AI 算法和模型。该项目是通过 Excel 的形式实现并演示人工智能与深度学习的核心算法和概念，让初学者可以动手操作并理解 AI 的运行原理，包括矩阵乘法、MLP、RNN、Transformer、ResNet 等，以独特且浅显易懂的形式，降低了 AI 学习的门槛。
+32、[ai-by-hand-excel](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/ImagineAILab/ai-by-hand-excel)：Handcrafting Various AI Algorithms and Models with Excel. This project implements and demonstrates the core algorithms and concepts of artificial intelligence and deep learning using Excel, allowing beginners to operate and understand the principles of AI, including matrix multiplication, MLP, RNN, Transformer, ResNet, etc., in a unique and easy-to-understand form, reducing the threshold for learning AI.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/107/857733465.png' style="max-width:80%; max-height=80%;"></img></p>
 
-33、[AstrBot](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/Soulter/AstrBot)：易上手的多平台 LLM 聊天机器人。该项目是基于 Python 构建的 LLM 聊天机器人及开发框架，支持集成多种消息平台和大语言模型。它提供了可视化管理面板和灵活的插件扩展机制，支持速率限制、白名单、关键词过滤、图片理解和语音转文字等功能。Shared by [@大痴小乙zt2kV](https://hellogithub.com/en/user/wg8ucRq0Lb75zTy)
+33、[AstrBot](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/Soulter/AstrBot)：Easy-to-Use Multi-platform LLM Chatbot. This project is an LLM chatbot and development framework built with Python, supporting integration with various messaging platforms and large language models. It offers a visual management panel and a flexible plugin extension mechanism, with features like rate limiting, whitelists, keyword filtering, image understanding, and speech-to-text.Shared by [@大痴小乙zt2kV](https://hellogithub.com/en/user/wg8ucRq0Lb75zTy)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/107/575865240.png' style="max-width:80%; max-height=80%;"></img></p>
 
-34、[cognita](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/truefoundry/cognita)：开源的低代码 RAG 平台。这是一个基于 LangChain 和 LlamaIndex 构建的 RAG 平台，支持 Docker 一键部署。它拥有简单易用的 Web 界面，提供数据上传、模型管理、联网和提示词模版等功能，用户无需写代码就能轻松构建、调试和发布 RAG 应用。
+34、[cognita](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/truefoundry/cognita)：Open-source Low-code RAG Platform. This is an RAG platform built based on LangChain and LlamaIndex, supporting one-click Docker deployment. It features an easy-to-use web interface that offers data upload, model management, internet connectivity, and prompt template functionalities, allowing users to effortlessly build, debug, and publish RAG applications without writing any code.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/107/671064065.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-35、[lm-evaluation-harness](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/EleutherAI/lm-evaluation-harness)：开源的 LLM 评测框架。这是一个是用于评估大型语言模型的框架，能够测试模型在多种任务中的表现。它提供了超过 60 个学术基准测试，支持多种模型框架、本地模型、云服务（如 OpenAI）、硬件加速，以及自定义任务等功能。
+35、[lm-evaluation-harness](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/EleutherAI/lm-evaluation-harness)：Open Source LLM Evaluation Framework. This framework is designed to evaluate Large Language Models (LLMs), capable of testing model performance across various tasks. It offers over 60 academic benchmarks, supports multiple model frameworks, local models, cloud services (like OpenAI), hardware acceleration, and the capability to customize tasks.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/107/290909192.png' style="max-width:80%; max-height=80%;"></img></p>
 
-36、[watermark-removal](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/zuruoke/watermark-removal)：去除图片水印的 AI 工具。这是一款基于 TensorFlow 的开源图像修复工具，仅需一条命令即可去除图片中的水印。
+36、[watermark-removal](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/zuruoke/watermark-removal)：AI Tool for Removing Image Watermarks. This is an open-source image restoration tool based on TensorFlow that can remove watermarks from images with just one command.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/107/424507010.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Other
-37、[ESP-Drone](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/Circuit-Digest/ESP-Drone)：低成本的开源无人机。这是一个基于 ESP32 的开源无人机项目，帮你制作一款低成本、可手机控制的小型无人机。
+37、[ESP-Drone](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/Circuit-Digest/ESP-Drone)：Low-Cost Open-Source Drone. This is an open-source drone project based on the ESP32, which helps you to create a low-cost, smartphone-controllable small drone.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/107/689881351.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-38、[hexo-theme-A4](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/HiNinoJay/hexo-theme-A4)：纸张质感的 Hexo 博客主题。这是一个简洁的 Hexo 博客主题，设计简约就像一张 A4 纸，让读者专注于阅读，作者专注于写作。Shared by [@nino](https://hellogithub.com/en/user/ePZoMD50CdrK7f1)
+38、[hexo-theme-A4](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/HiNinoJay/hexo-theme-A4)：Parchment Style Hexo Blog Theme. This is a simple Hexo blog theme designed to be as minimalistic as an A4 sheet of paper, allowing readers to focus on reading and authors to concentrate on writing.Shared by [@nino](https://hellogithub.com/en/user/ePZoMD50CdrK7f1)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/107/627803190.png' style="max-width:80%; max-height=80%;"></img></p>
 
-39、[LazyCat-Bookmark-Cleaner](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/Alanrk/LazyCat-Bookmark-Cleaner)：一键整理浏览器书签的工具。这是一款开源的浏览器书签管理插件，帮你轻松整理浏览器书签。它无需联网、保护隐私，支持中英双语、自动检测无效书签、重复书签和空文件夹，还可以生成书签使用报告。
+39、[LazyCat-Bookmark-Cleaner](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/Alanrk/LazyCat-Bookmark-Cleaner)：A tool for one-click browser bookmark organization. This is an open-source browser bookmark management plugin that helps you easily organize your browser bookmarks. It does not require an internet connection and protects your privacy. It supports both Chinese and English, automatically detects invalid bookmarks, duplicate bookmarks, and empty folders, and can also generate a bookmark usage report.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/107/909670009.png' style="max-width:80%; max-height=80%;"></img></p>
 
-40、[linuxpdf](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/ading2210/linuxpdf)：运行在 PDF 文件里的 Linux 系统。该项目基于 RISC-V 模拟器 TinyEMU 将 Linux 系统嵌入到一个 PDF 文件中运行。用户可以在浏览器中打开这个 PDF 文件，启动 Linux 系统进行交互。
+40、[linuxpdf](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/ading2210/linuxpdf)：Linux System Running Inside a PDF File. This project embeds a Linux system into a PDF file, powered by the RISC-V simulator TinyEMU. Users can open the PDF file in a browser, initiate the Linux system, and interact with it.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/107/916802481.png' style="max-width:80%; max-height=80%;"></img></p>
 
-41、[moodiary](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/ZhuJHua/moodiary)：一款 Flutter 构建的开源跨平台日记应用。这是一款完全开源、颜值在线的日记软件。它支持多种形式的文本编辑和多媒体附件，同时提供密码保护、生物识别解锁、足迹地图、智能助手、同步与备份等功能，兼容 Android、iOS、Windows、macOS 和 Linux 系统。Shared by [@云烨](https://hellogithub.com/en/user/XECVTG0rFmk15L8)
+41、[moodiary](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/ZhuJHua/moodiary)：An Open-source Cross-platform Diary App Built with Flutter. This is a fully open-source diary software that is aesthetically pleasing. It supports various text editing formats and multimedia attachments, along with features like password protection, biometric unlock, footprint map, smart assistant, synchronization, and backup capabilities, and is compatible with systems like Android, iOS, Windows, macOS, and Linux.Shared by [@云烨](https://hellogithub.com/en/user/XECVTG0rFmk15L8)
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/107/846895415.png' style="max-width:80%; max-height=80%;"></img></p>
 
-42、[Xiaomi-BootLoader-Questionnaire](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire)：小米手机解锁刷机资格的答题测试。该项目是小米 BootLoader 解锁的答题库，起因是小米手机在获取 BootLoader 解锁资格前，需要先通过答题才能申请。
+42、[Xiaomi-BootLoader-Questionnaire](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire)：Answer Test for Xiaomi Mobile Unlock and Flashing Qualification. This project is a question bank for unlocking Xiaomi BootLoader. The reason is that before obtaining the qualification to unlock BootLoader on Xiaomi mobile phones, users must first pass a series of questions to apply.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/107/726300407.png' style="max-width:80%; max-height=80%;"></img></p>
 
 ### Book
-43、[ai-self-coding-book](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/easychen/ai-self-coding-book)：《方糖 AI 自编程入门》。这本书是作者结合实践经验编写的 AI 自编程入门教程，旨在帮助非程序员也能借助 AI 开发出功能复杂、质量过硬的程序，而不仅仅局限于贪吃蛇这样的玩具。
+43、[ai-self-coding-book](https://hellogithub.com/en/periodical/statistics/click?target=https://github.com/easychen/ai-self-coding-book)：Sugar Cube AI Self-Programming Introduction. This book is an AI self-programming introductory tutorial written by the author based on practical experience. It aims to help non-programmers leverage AI to develop complex and high-quality programs, not limited to toy programs like Snake.
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img4/master/hellogithub/107/917240200.jpg' style="max-width:80%; max-height=80%;"></img></p>
 
